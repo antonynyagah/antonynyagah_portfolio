@@ -11,7 +11,7 @@ const About = () => {
         </div>
         <div className="about-description">
           <p>
-            Hi! I'm [Your Name], a passionate full stack web developer with a background in MERN stack (MongoDB, Express.js, React, Node.js) development and Python programming.
+            Hi! I'm Antony Nyagah, a passionate full stack web developer with a background in MERN stack (MongoDB, Express.js, React, Node.js) development and Python programming.
           </p>
           <p>
             I'm a proud graduate of a coding bootcamp where I honed my skills and acquired a strong foundation in web development. During my journey, I've had the privilege of working as a Lead Support Engineer, where I developed problem-solving skills and effective communication.
