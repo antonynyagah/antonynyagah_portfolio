@@ -15,9 +15,9 @@ const Navbar = () => {
           <Link to="/contact">Contact</Link>
         </li>
         <li>
-          <a href="https://resume.creddle.io/resume/14mulmr5kh6" target="_blank" rel="noopener noreferrer">
+          <Link to="https://resume.creddle.io/resume/14mulmr5kh6" target="_blank" rel="noopener noreferrer">
             Resume
-          </a>
+          </Link>
         </li>
       </ul>
     </nav>
@@ -25,3 +25,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
